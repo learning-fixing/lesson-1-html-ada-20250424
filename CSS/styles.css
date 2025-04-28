@@ -1,0 +1,48 @@
+h2 {
+    color: green;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.redlink {color: red;
+
+}
+
+.colorblue {
+    color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 3rem;
+}
+
+.article-h1 {
+    font-size: 2rem;
+    margin-bottom: 0rem;
+    color: red;
+}
+
+.section2 {
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 800px;
+    height: 600px;
+    color: red;
+}
+
+.button {
+    background-color: rgb(251, 142, 0);
+    margin: 10px;
+    color: red;
+    padding: 10px;
+    border: 1px color purple;
+}
+.round {
+    border-radius: 50px;
+}
+
+
+
